@@ -1,0 +1,18 @@
+{
+  "name": "ESP8266_easy_struct_EEPROM",
+  "version": "1.0.0",
+  "description": "Easy struct saving to EEPROM for ESP8266",
+  "keywords": ["EEPROM", "struct", "espressif8266", "easy EEPROM"],
+  "authors": [
+    {
+      "name": "Andriy Manyuk",
+      "url": "https://github.com/qqeOSAS"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": [
+    
+  ],
+  "frameworks": "arduino",
+  "platforms": ["espressif8266" ]
+}
