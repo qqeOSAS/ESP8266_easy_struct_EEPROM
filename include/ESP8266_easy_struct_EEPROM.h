@@ -3,7 +3,7 @@
 
 #include <Arduino.h>
 #include <EEPROM.h>
-//d
+//dівівівіпше
 class EASY_EEPROM_STRUCT {
 public:
     EASY_EEPROM_STRUCT(size_t eepromSize = 512);  
